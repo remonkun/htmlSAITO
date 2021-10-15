@@ -11,7 +11,7 @@ p{color:black;
 <meta name="descripton" content="htmlの本を土橋君が持っているのでjavespcript">
 <head>
 <body>
-  <img src="SharedScreenshot (2).jpg" alt="レモンの" width="400">
+  <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
   <table>
     <tr>
       <td>小麦粉</td>
@@ -21,4 +21,3 @@ p{color:black;
       </tr> 
   </table>
   </body>
-</html>
