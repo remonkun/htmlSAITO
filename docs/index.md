@@ -14,10 +14,10 @@ p{color:black;
   <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
   <table>
     <tr>
-      <td>小麦粉</td>
-      <th>大さじ6杯</th>
-      <td>ベーキングパウダー</td>
-      <th>小さじ1杯半</th>
+      <th>小麦粉</th
+      <td>大さじ6杯</td>
+      <th>ベーキングパウダー</th>
+      <td>小さじ1杯半</td>
       </tr> 
   </table>
   </body>
