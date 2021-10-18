@@ -15,7 +15,7 @@ p{color:black;
   <table>
     <tr>
       <th>小麦粉</th>
-      <td>大さじ6杯</td>
+      <td>大さじ１杯</td>
       <th>ベーキングパウダー</th>
       <td>小さじ1杯半</td>
       </tr> 
