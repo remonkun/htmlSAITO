@@ -12,7 +12,7 @@ p{color:black;
 <head>
 <body>
   <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
-   <img src="" alt="WIN_20211019_10_36_07_Pro.jpg" width="400">
+   <img src="WIN_20211019_10_36_07_Pro.jpg" width="400">
    <img src="WIN_20211019_10_36_30_Pro.jpg" alt="レモンのドット絵" width="400">
   <table>
     <tr>
