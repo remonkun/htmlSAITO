@@ -8,7 +8,7 @@ p{color:black;
     ;}
 </style>
 <meta chareset="utf-8">
-<title>サイト名</title>
+<title>玲音の遊び場</title>
 <meta name="descripton" content="htmlの本を土橋君が持っているのでjavespcript">
 <head>
 <body>
