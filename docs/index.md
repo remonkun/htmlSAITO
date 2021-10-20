@@ -3,12 +3,15 @@
 p{color:black;
   font-size: 22px
     ;}
+    .title{font-size:40px;
+    }
 </style>
 <meta chareset="utf-8">
 <title>玲音の遊び場</title>
 <meta name="descripton" content="htmlの本を土橋君が持っているのでjavespcript">
 <head>
 <body>
+  <h1 class="title">玲音の遊び場<h1>
   <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
   <img src="WIN_20211020_10_40_59_Pro (3).jpg" alt="レモンのドット絵" width="400">
   <img src="WIN_20211020_10_41_21_Pro.jpg" alt="レモンのドット絵" width="400">
