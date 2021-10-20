@@ -13,8 +13,9 @@ p{color:black;
 <head>
 <body>
   <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
-  <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
-  <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
+  <img src="WIN_20211020_10_40_59_Pro (3).jpg" alt="レモンのドット絵" width="400">
+  <img src="WIN_20211020_10_41_21_Pro.jpg" alt="レモンのドット絵" width="400">
+  <img src="WIN_20211020_10_41_27_Pro.jpg" alt="レモンのドット絵" width="400">
   <table>
     <tr>
       <th>小麦粉</th>
