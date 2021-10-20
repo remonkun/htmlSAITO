@@ -4,7 +4,7 @@ p{color:black;
   font-size: 22px
     ;}
     .title{font-size:40px;
-    background-color:emerald green;
+    background-color:emerald;
     padding:5px 10px;
     color:white;
     }
