@@ -13,6 +13,8 @@ p{color:black;
 <head>
 <body>
   <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
+  <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
+  <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
   <table>
     <tr>
       <th>小麦粉</th>
