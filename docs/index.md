@@ -5,7 +5,7 @@ p{color:black;
     ;}
     .title{font-size:40px;
     background-color:tomato;
-    padding:5px 10px;
+    padding:5px 5px;
     color:white;
     }
 </style>
