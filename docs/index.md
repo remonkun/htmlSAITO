@@ -1,6 +1,3 @@
-
-<!DOCTYPE html>
-<html>
 <head>
   <style>@charset "utf8-8";
 p{color:black;
@@ -28,6 +25,3 @@ p{color:black;
       </tr> 
   </table>
   </body>
-</html>
-    
-  
