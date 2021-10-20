@@ -4,7 +4,9 @@ p{color:black;
   font-size: 22px
     ;}
     .title{font-size:40px;
-    background-color:#dddddd
+    background-color:#dddddd;
+    padding:5px 10px;
+    color:white;
     }
 </style>
 <meta chareset="utf-8">
