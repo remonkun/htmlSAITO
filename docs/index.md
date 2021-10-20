@@ -17,6 +17,7 @@ p{color:black;
   <img src="WIN_20211020_10_41_21_Pro.jpg" alt="レモンのドット絵" width="400">
   <img src="WIN_20211020_10_41_27_Pro.jpg" alt="レモンのドット絵" width="400">
    <img src="WIN_20211020_11_26_15_Pro.jpg" alt="レモンのドット絵" width="400">
+  <img src="WIN_20211020_12_28_39_Pro.jpg" alt="レモンのドット絵" width="400">
   
   <table>
     <tr>
