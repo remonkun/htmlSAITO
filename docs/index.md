@@ -9,8 +9,8 @@ p{color:black;
     padding:5px 5px;
     color:white;
    background-color:tomato;
-    width:500px;
-    hidth:100px;
+    width:500px;   
+height:100px;
     }
 </style>
 <meta chareset="utf-8">
