@@ -4,6 +4,8 @@
     .hg{
     background-color:tomato;
     width:500px;
+    font-color:red;
+    font-size:30px;
 height:100px;
     }
 </style>
