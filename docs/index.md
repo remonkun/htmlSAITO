@@ -17,6 +17,9 @@ height:100px;
 <body>
   <h1 class="hg">玲音の遊び場</h1>
   <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="200px">
+  <p>
+  <a href=".html"></a>
+</p>
   <table>
     <tr>
       <th>小麦粉</th>
