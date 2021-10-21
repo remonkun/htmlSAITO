@@ -1,9 +1,8 @@
 <head>
   <style>@charset "utf8-8">
-   <link rel="icon" href="SharedScreenshot-_2_.ico"> 
 p{color:black;
-  font-size: 22px
-    ;}
+  font-size: 22px;
+    }
     .title{font-size:40px;
     padding:5px 5px;
     color:white;
