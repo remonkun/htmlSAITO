@@ -1,5 +1,6 @@
 <head>
-  <style>@charset "utf8-8">
+  <style>
+    @charset "utf8-8">
     .hg{
     background-color:tomato;
     width:500px;
@@ -13,12 +14,6 @@ height:100px;
 <body>
   <h1 class="hg">玲音の遊び場</h1>
   <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
-  <img src="WIN_20211020_10_40_59_Pro (3).jpg" alt="レモンのドット絵" width="400">
-  <img src="WIN_20211020_10_41_21_Pro.jpg" alt="レモンのドット絵" width="400">
-  <img src="WIN_20211020_10_41_27_Pro.jpg" alt="レモンのドット絵" width="400">
-   <img src="WIN_20211020_11_26_15_Pro.jpg" alt="レモンのドット絵" width="400">
-  <img src="WIN_20211020_12_28_39_Pro.jpg" alt="レモンのドット絵" width="400">
-  
   <table>
     <tr>
       <th>小麦粉</th>
