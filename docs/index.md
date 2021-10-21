@@ -12,6 +12,7 @@ height:100px;
 <meta chareset="utf-8">
 <title>玲音の遊び場</title>
 <meta name="descripton" content="htmlの本を土橋君が持っているのでjavespcript">
+  <!--コメント-->
 </head>
 <body>
   <h1 class="hg">玲音の遊び場</h1>
