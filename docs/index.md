@@ -18,7 +18,7 @@ height:100px;
   <h1 class="hg">玲音の遊び場</h1>
   <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="200px">
   <p>
-  <a href=".html"></a>
+  <a href="study.html"></a>
 </p>
   <table>
     <tr>
