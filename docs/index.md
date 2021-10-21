@@ -1,9 +1,9 @@
 <head>
   <style>@charset "utf8-8">
-    .h11{
+    .hg{
     background-color:tomato;
     width:500px;
-    hidth:100px;
+height:100px;
     }
 </style>
 <meta chareset="utf-8">
@@ -11,7 +11,7 @@
 <meta name="descripton" content="htmlの本を土橋君が持っているのでjavespcript">
 </head>
 <body>
-  <h1 class="h11">玲音の遊び場</h1>
+  <h1 class="hg">玲音の遊び場</h1>
   <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
   <img src="WIN_20211020_10_40_59_Pro (3).jpg" alt="レモンのドット絵" width="400">
   <img src="WIN_20211020_10_41_21_Pro.jpg" alt="レモンのドット絵" width="400">
