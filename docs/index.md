@@ -1,16 +1,9 @@
 <head>
   <style>@charset "utf8-8">
-p{color:black;
-  font-size: 22px;
-    }
-    .title{font-size:40px;
-    padding:5px 5px;
-    color:white;
-    }
     .h11{
     background-color:tomato;
-    width:5px;
-    hidth:10px;
+    width:500px;
+    hidth:100px;
     }
 </style>
 <meta chareset="utf-8">
@@ -19,8 +12,8 @@ p{color:black;
 <head>
 <body>
   <div class="h11">
-  <h1 class="title">玲音の遊び場<h1>
-    </div>
+  <h1>玲音の遊び場</h1>
+   </div>
   <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
   <img src="WIN_20211020_10_40_59_Pro (3).jpg" alt="レモンのドット絵" width="400">
   <img src="WIN_20211020_10_41_21_Pro.jpg" alt="レモンのドット絵" width="400">
