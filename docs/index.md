@@ -1,16 +1,17 @@
 <head>
-  <style>@charset "utf8-8";
+  <style>@charset "utf8-8">
+   <link rel="icon" href=".ico"> 
 p{color:black;
   font-size: 22px
     ;}
-    .title
-    {
-    font-size:40px;
+    .title{font-size:40px;
     padding:5px 5px;
     color:white;
-   background-color:#00FF7F;
-    width:500px;   
-height:100px;
+    }
+    .h11{
+    background-color:tomato
+    width:5px;
+    hidth:10px;
     }
 </style>
 <meta chareset="utf-8">
@@ -18,7 +19,9 @@ height:100px;
 <meta name="descripton" content="htmlの本を土橋君が持っているのでjavespcript">
 <head>
 <body>
-   <h1 class="title">玲音の遊び場<h1>
+  <div class="h11">
+  <h1 class="title">玲音の遊び場<h1>
+    </div>
   <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="400">
   <img src="WIN_20211020_10_40_59_Pro (3).jpg" alt="レモンのドット絵" width="400">
   <img src="WIN_20211020_10_41_21_Pro.jpg" alt="レモンのドット絵" width="400">
