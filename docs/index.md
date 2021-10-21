@@ -1,6 +1,6 @@
 <head>
   <style>@charset "utf8-8">
-   <link rel="icon" href=".ico"> 
+   <link rel="icon" href="SharedScreenshot-_2_.ico"> 
 p{color:black;
   font-size: 22px
     ;}
