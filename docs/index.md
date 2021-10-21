@@ -8,7 +8,7 @@ p{color:black;
     font-size:40px;
     padding:5px 5px;
     color:white;
-   background-color:tomato;
+   background-color:#00FF7F;
     width:500px;   
 height:100px;
     }
