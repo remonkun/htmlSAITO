@@ -19,6 +19,7 @@ height:100px;
   <img src="SharedScreenshot (2).jpg" alt="レモンのドット絵" width="200px">
   <p>
   <a href="https://remonkun.github.io/htmlSAITO/study.html">study写真アーカイブ</a>
+    <a href="https://remonkun.github.io/htmlSAITO/study.html">
 </p>
   <table>
     <tr>
